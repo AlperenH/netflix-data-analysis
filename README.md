@@ -42,7 +42,7 @@ notebooks/ : JupyterLab Python notebooks with code.
 
     netflix_python_manip.ipynb : Data manipulation and visualization work.
 
-sql_queries/ : SQL queries used for data extraction and manipulation.
+sql_queries/ : SQL queries used for data extraction and manipulation with MySQL Workbench.
 
     countries_released.sql
     directors.sql
