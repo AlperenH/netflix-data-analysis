@@ -24,14 +24,13 @@ data/ : Contains the dataset files (CSV files).
 
 images/ : Screenshots of data analysis visualizations.
 
-    ![Data Manipulation Step 1](./images/netflix_data_manip_1.PNG)
-    netflix_data_manip_2.PNG
-    netflix_data_manip_3.PNG
-    netflix_data_manip_4.PNG
-    netflix_data_manip_5.PNG
-    netflix_data_manip_6.PNG
-    netflix_data_manip_7.PNG
-    netflix_data_manip_8.PNG
+ ![Data Manipulation Step 1](./images/netflix_data_manip_1.PNG)
+ ![Data Manipulation Step 2](./images/netflix_data_manip_2.PNG)
+ ![Data Manipulation Step 1](./images/netflix_data_manip_3.PNG)
+ ![Data Manipulation Step 2](./images/netflix_data_manip_4.PNG)
+ ![Data Manipulation Step 1](./images/netflix_data_manip_5.PNG)
+ ![Data Manipulation Step 2](./images/netflix_data_manip_6.PNG)
+    
 ## Power BI Dashboard
 
 Below is a screenshots of the Power BI dashboard created for visualizing Netflix data:
