@@ -10,6 +10,22 @@ Microsoft Excel, MySQL, and Power BI to perform data manipulation, analysis, and
 - **Microsoft Excel**
 - **MySQL Workbench**
 - **Power BI** (Data Visualization)
+- **Dataset**: [Netflix Titles Dataset](https://www.kaggle.com/shivamb/netflix-shows)
+
+## Key Steps
+1. **Data Cleaning**:
+   - Removed null values, duplicates, and irrelevant columns.
+   - Standardized column names for consistency.
+
+2. **Exploratory Data Analysis (EDA)**:
+   - Used Python libraries to analyze trends like content ratings, genre distribution, and release years.
+   - Visualized key insights using Seaborn and Matplotlib.
+
+3. **SQL Analysis**:
+   - Designed and executed SQL queries to identify top-performing genres and country-wise content distribution.
+
+4. **Dashboards**:
+   - Built an interactive dashboard in Power BI to summarize key metrics like content count by genre, year, and region.
 
 ## Project Structure
 
