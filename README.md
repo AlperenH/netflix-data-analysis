@@ -24,7 +24,7 @@ data/ : Contains the dataset files (CSV files).
 
 images/ : Screenshots of data analysis visualizations.
 
-    netflix_data_manip_1.PNG    
+    ![Data Manipulation Step 1](./images/netflix_data_manip_1.PNG)
     netflix_data_manip_2.PNG
     netflix_data_manip_3.PNG
     netflix_data_manip_4.PNG
@@ -32,6 +32,12 @@ images/ : Screenshots of data analysis visualizations.
     netflix_data_manip_6.PNG
     netflix_data_manip_7.PNG
     netflix_data_manip_8.PNG
+## Power BI Dashboard
+
+Below is a screenshots of the Power BI dashboard created for visualizing Netflix data:
+
+![Power BI Dashboard](./images/netflix_power_BI_overview.PNG)
+![Power BI Dashboard](./images/netflix_power_BI_single_title_view.PNG)   
 
 notebooks/ : JupyterLab Python notebooks with code.
 
