@@ -25,10 +25,15 @@ data/ : Contains the dataset files (CSV files).
 images/ : Screenshots of data analysis visualizations.
 
  ![Data Manipulation Step 1](./images/netflix_data_manip_1.PNG)
+ 
  ![Data Manipulation Step 2](./images/netflix_data_manip_2.PNG)
+ 
  ![Data Manipulation Step 1](./images/netflix_data_manip_3.PNG)
+ 
  ![Data Manipulation Step 2](./images/netflix_data_manip_4.PNG)
+ 
  ![Data Manipulation Step 1](./images/netflix_data_manip_5.PNG)
+ 
  ![Data Manipulation Step 2](./images/netflix_data_manip_6.PNG)
     
 ## Power BI Dashboard
@@ -60,3 +65,7 @@ visualizations/ : Power BI project file.
 - Visualizing the most popular genres and trends over time.
 - Statistical insights into the distribution of content across different categories (e.g., movie vs. TV show, content ratings).
 
+## Acknowledgments
+
+- Netflix dataset from https://www.kaggle.com/datasets/shivamb/netflix-shows.
+- Libraries and tools used: Pandas, NumPy, Matplotlib, Seaborn, Power BI, Excel.
